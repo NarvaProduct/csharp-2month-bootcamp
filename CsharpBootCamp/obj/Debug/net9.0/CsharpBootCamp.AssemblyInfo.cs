@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CsharpBootCamp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91331b35106d79fd6d72e75b4310aeebbb3bf923")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6ea15d49edc656d8c0ec834a8d9764870776e11")]
 [assembly: System.Reflection.AssemblyProductAttribute("CsharpBootCamp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CsharpBootCamp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
