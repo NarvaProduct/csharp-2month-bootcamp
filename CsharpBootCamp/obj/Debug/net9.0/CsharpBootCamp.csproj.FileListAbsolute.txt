@@ -1,0 +1,15 @@
+C:\Users\explo\Documents\GitHub\csharp-2month-bootcamp\CsharpBootCamp\bin\Debug\net9.0\CsharpBootCamp.exe
+C:\Users\explo\Documents\GitHub\csharp-2month-bootcamp\CsharpBootCamp\bin\Debug\net9.0\CsharpBootCamp.deps.json
+C:\Users\explo\Documents\GitHub\csharp-2month-bootcamp\CsharpBootCamp\bin\Debug\net9.0\CsharpBootCamp.runtimeconfig.json
+C:\Users\explo\Documents\GitHub\csharp-2month-bootcamp\CsharpBootCamp\bin\Debug\net9.0\CsharpBootCamp.dll
+C:\Users\explo\Documents\GitHub\csharp-2month-bootcamp\CsharpBootCamp\bin\Debug\net9.0\CsharpBootCamp.pdb
+C:\Users\explo\Documents\GitHub\csharp-2month-bootcamp\CsharpBootCamp\obj\Debug\net9.0\CsharpBootCamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\explo\Documents\GitHub\csharp-2month-bootcamp\CsharpBootCamp\obj\Debug\net9.0\CsharpBootCamp.AssemblyInfoInputs.cache
+C:\Users\explo\Documents\GitHub\csharp-2month-bootcamp\CsharpBootCamp\obj\Debug\net9.0\CsharpBootCamp.AssemblyInfo.cs
+C:\Users\explo\Documents\GitHub\csharp-2month-bootcamp\CsharpBootCamp\obj\Debug\net9.0\CsharpBootCamp.csproj.CoreCompileInputs.cache
+C:\Users\explo\Documents\GitHub\csharp-2month-bootcamp\CsharpBootCamp\obj\Debug\net9.0\CsharpBootCamp.dll
+C:\Users\explo\Documents\GitHub\csharp-2month-bootcamp\CsharpBootCamp\obj\Debug\net9.0\refint\CsharpBootCamp.dll
+C:\Users\explo\Documents\GitHub\csharp-2month-bootcamp\CsharpBootCamp\obj\Debug\net9.0\CsharpBootCamp.pdb
+C:\Users\explo\Documents\GitHub\csharp-2month-bootcamp\CsharpBootCamp\obj\Debug\net9.0\CsharpBootCamp.genruntimeconfig.cache
+C:\Users\explo\Documents\GitHub\csharp-2month-bootcamp\CsharpBootCamp\obj\Debug\net9.0\ref\CsharpBootCamp.dll
+C:\Users\explo\Documents\GitHub\csharp-2month-bootcamp\CsharpBootCamp\obj\Debug\net9.0\CsharpBootCamp.sourcelink.json
