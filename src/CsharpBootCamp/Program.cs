@@ -13,10 +13,10 @@ namespace Game
         }
         public static void GetPlayerStats(out string name, out int age, out string classType)
         {
-            Console.WriteLine("What is your player's name?");
+            Console.WriteLine("What is your nigger's name?");
             name = Console.ReadLine();
 
-            Console.WriteLine("What is your player's age?");
+            Console.WriteLine("What is your nigger's age?");
             string stringAge = Console.ReadLine();
             while (!int.TryParse(stringAge, out age))
             {
@@ -24,7 +24,7 @@ namespace Game
                 stringAge = Console.ReadLine();
             }
             
-            Console.WriteLine("What is your player's class?");
+            Console.WriteLine("What is your niggers's class?");
             classType = Console.ReadLine();
         }
         public static void DisplayPlayerStats(string name, int age, string classType)
