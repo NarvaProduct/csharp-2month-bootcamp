@@ -15,11 +15,11 @@ namespace Game
             int age, attack, defense, speed, powerScore;
             double gold, silver, copper;
 
-            // Player.GetPlayerStats(out name, out age, out classType);
-            // Player.DisplayPlayerStats(name, age, classType);
+            Player.GetPlayerStats(out name, out age, out classType);
+            Player.DisplayPlayerStats(name, age, classType);
 
-            // Player.GetPlayerPowerScore(out attack, out defense, out speed, out powerScore, out powerRating);
-            // Player.DisplayPlayerPowerScore(attack, defense, speed, powerScore, powerRating);
+            Player.GetPlayerPowerScore(out attack, out defense, out speed, out powerScore, out powerRating);
+            Player.DisplayPlayerPowerScore(attack, defense, speed, powerScore, powerRating);
 
             // AskForMoney(out gold, out silver, out copper);
             // DisplayMoney(gold, silver, copper);
