@@ -21,8 +21,8 @@ namespace Game
             Player.GetPlayerPowerScore(out attack, out defense, out speed, out powerScore, out powerRating);
             Player.DisplayPlayerPowerScore(attack, defense, speed, powerScore, powerRating);
 
-            // AskForMoney(out gold, out silver, out copper);
-            // DisplayMoney(gold, silver, copper);
+            AskForMoney(out gold, out silver, out copper);
+            DisplayMoney(gold, silver, copper);
             Console.ReadKey();
 
             int sixsidedResult = Dice.RollD6();
